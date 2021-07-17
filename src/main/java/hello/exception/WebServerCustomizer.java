@@ -1,4 +1,4 @@
-package hello.excption;
+package hello.exception;
 
 import org.springframework.boot.web.server.ConfigurableWebServerFactory;
 import org.springframework.boot.web.server.ErrorPage;

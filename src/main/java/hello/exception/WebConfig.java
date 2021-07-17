@@ -1,8 +1,8 @@
-package hello.excption;
+package hello.exception;
 
-import hello.excption.filter.LogFilter;
-import hello.excption.interceptor.LogInterceptor;
-import hello.excption.resolver.MyHandlerExceptionResolver;
+import hello.exception.filter.LogFilter;
+import hello.exception.interceptor.LogInterceptor;
+import hello.exception.resolver.MyHandlerExceptionResolver;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

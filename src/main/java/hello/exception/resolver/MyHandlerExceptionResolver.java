@@ -1,4 +1,4 @@
-package hello.excption.resolver;
+package hello.exception.resolver;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.servlet.HandlerExceptionResolver;
