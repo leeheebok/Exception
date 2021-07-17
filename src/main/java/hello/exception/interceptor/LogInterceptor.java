@@ -1,4 +1,4 @@
-package hello.excption.interceptor;
+package hello.exception.interceptor;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.servlet.HandlerInterceptor;
